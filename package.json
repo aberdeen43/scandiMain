@@ -1,0 +1,19 @@
+{
+  "name": "scandiweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^15.7.2",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
